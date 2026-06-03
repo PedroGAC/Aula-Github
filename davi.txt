@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+opa boa noite Caua esteve aqui
+me siga no linkedin
+=======
 vic esteve aqui!!!
 
 
 opa boa noite
+>>>>>>> df3757f4c03516d6aede37a45b2fef4ee46a1360

@@ -1,6 +1,1 @@
-52
-
-
-
-Oi professor < <
-             __
+cout << chet gipiti
