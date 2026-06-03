@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 MicroEng
+=======
+52
+oi caua passou
+
+
+Oi professor < <
+             __
+>>>>>>> df3757f4c03516d6aede37a45b2fef4ee46a1360
